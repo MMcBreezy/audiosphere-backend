@@ -1,0 +1,17 @@
+.env.json
+node_modules/
+.env
+.env.json
+
+# Ignore build output directory
+build/
+
+# Ignore IDE and editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
